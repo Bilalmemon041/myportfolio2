@@ -2,7 +2,7 @@
 
 export default function About(){
     return (
-        <section className=" bg-gray-800 text-white">
+        <section className=" bg-gray-800 text-white ">
         <div >
             <section>
               <h1 className="text-center text-6xl font-mono">SERVICES</h1>

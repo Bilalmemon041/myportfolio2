@@ -12,10 +12,10 @@ export default function Navbar(){
           {/* LEFT SECTION */}
           <section className="flex gap-8 ">
             <Link href='/'>HOME</Link>
-            <Link href="/Nav/About">ABOUT</Link>
             <Link href="/Nav/Services">SERVICES</Link>
             <Link href="/Nav/Contact">CONTACT</Link>
-            <Link href="/">GUARDS</Link>
+            <Link href="/Nav/About">ABOUT</Link>
+            
            
           </section>
         </nav>
